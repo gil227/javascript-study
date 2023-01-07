@@ -1,1 +1,324 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T12:06:42.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="xhIHQdWryJJ0eoomQ3BZ" type="github"><diagram id="0bLce_4zoHOlg9EFsIKG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-07T12:08:20.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="F5dcBlVk5YdXs3-Jo7mD" type="github">
+  <diagram id="OB1RQfZjv2ySGwZLF1Jn" name="페이지-1">
+    <mxGraphModel dx="1223" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EwSxqJjweThFljmN2n31-1" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="59" y="-289" width="750" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EwSxqJjweThFljmN2n31-1">
+          <mxGeometry width="750" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-3" value="전공자 CS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EwSxqJjweThFljmN2n31-1">
+          <mxGeometry x="315" y="14" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EwSxqJjweThFljmN2n31-1" source="EwSxqJjweThFljmN2n31-5" target="EwSxqJjweThFljmN2n31-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-5" value="&lt;b&gt;네트워크&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="EwSxqJjweThFljmN2n31-1">
+          <mxGeometry x="315" y="54" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EwSxqJjweThFljmN2n31-1" source="EwSxqJjweThFljmN2n31-8" target="EwSxqJjweThFljmN2n31-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EwSxqJjweThFljmN2n31-1" source="EwSxqJjweThFljmN2n31-8" target="EwSxqJjweThFljmN2n31-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-8" value="&lt;b&gt;자료구조&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="EwSxqJjweThFljmN2n31-1">
+          <mxGeometry x="20" y="54" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EwSxqJjweThFljmN2n31-1" source="EwSxqJjweThFljmN2n31-10" target="EwSxqJjweThFljmN2n31-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-10" value="&lt;b&gt;데이터베이스&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EwSxqJjweThFljmN2n31-1">
+          <mxGeometry x="460" y="54" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EwSxqJjweThFljmN2n31-1" source="EwSxqJjweThFljmN2n31-12" target="EwSxqJjweThFljmN2n31-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-12" value="&lt;b&gt;운영체제&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EwSxqJjweThFljmN2n31-1">
+          <mxGeometry x="610" y="54" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EwSxqJjweThFljmN2n31-1" source="EwSxqJjweThFljmN2n31-14" target="EwSxqJjweThFljmN2n31-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-14" value="&lt;b&gt;알고리즘&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="EwSxqJjweThFljmN2n31-1">
+          <mxGeometry x="170" y="54" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-15" value="스택, 큐,&lt;br&gt;트리, 그래프,&lt;br&gt;딕셔너리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EwSxqJjweThFljmN2n31-1">
+          <mxGeometry x="20" y="144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-16" value="코딩테스트 대비" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EwSxqJjweThFljmN2n31-1">
+          <mxGeometry x="170" y="144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-17" value="HTTP, 쿠키, 헤더,&lt;br&gt;바디, 토큰, 요청, 응답" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EwSxqJjweThFljmN2n31-1">
+          <mxGeometry x="315" y="144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-18" value="CRUD, JOIN, PK, FK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EwSxqJjweThFljmN2n31-1">
+          <mxGeometry x="460" y="144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-19" value="스레드, 프로세스" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EwSxqJjweThFljmN2n31-1">
+          <mxGeometry x="610" y="144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="EwSxqJjweThFljmN2n31-23" target="EwSxqJjweThFljmN2n31-73" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="437" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EwSxqJjweThFljmN2n31-23" target="EwSxqJjweThFljmN2n31-34" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="EwSxqJjweThFljmN2n31-23" target="EwSxqJjweThFljmN2n31-50" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="119" y="41" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-23" value="&lt;b&gt;HTML, CSS&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="377" y="-7" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EwSxqJjweThFljmN2n31-27" target="EwSxqJjweThFljmN2n31-31" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EwSxqJjweThFljmN2n31-27" target="EwSxqJjweThFljmN2n31-33" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EwSxqJjweThFljmN2n31-27" target="EwSxqJjweThFljmN2n31-46" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-27" value="&lt;b&gt;JavaScript&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="377" y="146" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EwSxqJjweThFljmN2n31-31" target="EwSxqJjweThFljmN2n31-36" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EwSxqJjweThFljmN2n31-31" target="EwSxqJjweThFljmN2n31-39" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EwSxqJjweThFljmN2n31-31" target="EwSxqJjweThFljmN2n31-49" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-31" value="&lt;b&gt;React, React Router&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="377" y="315" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EwSxqJjweThFljmN2n31-33" target="EwSxqJjweThFljmN2n31-35" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Let&#39;s Get IT&lt;br&gt;자바스크립트(무료)" link="https://www.youtube.com/watch?v=2yGhb-z8VTQ&amp;list=PLcqDmjxt30RvEEN6eUCcSrrH-hKjCT4wt" linkTarget="_blank" id="EwSxqJjweThFljmN2n31-33">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="527" y="141" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="네이버 따라&lt;br&gt;만들기(무료)" link="https://www.youtube.com/watch?v=ohpjJNal2lk&amp;list=PLcqDmjxt30Rsb8Zpgbemt-NaCOjr2WIUj" linkTarget="_blank" id="EwSxqJjweThFljmN2n31-34">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="527" y="-12" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="인간 JS 엔진되기&lt;br&gt;(고급, 무료)" link="https://www.youtube.com/watch?v=NS1cIsWlFGI&amp;list=PLcqDmjxt30Rt9wmSlw1u6sBYr-aZmpNB3" linkTarget="_blank" id="EwSxqJjweThFljmN2n31-35">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="677" y="141" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="웹게임 React&lt;br&gt;(무료)" link="https://www.youtube.com/watch?v=aYwSrzeyUOk&amp;list=PLcqDmjxt30RtqbStQqk-eYMK8N-1SYIFn" linkTarget="_blank" id="EwSxqJjweThFljmN2n31-36">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="527" y="310" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="EwSxqJjweThFljmN2n31-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="EwSxqJjweThFljmN2n31-39" target="EwSxqJjweThFljmN2n31-40" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="527" y="494" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EwSxqJjweThFljmN2n31-39" target="EwSxqJjweThFljmN2n31-42" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-39" value="&lt;b&gt;Redux(toolkit)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="377" y="469" width="120" height="50" as="geometry" />
+        </mxCell>
+        <UserObject label="Redux vs Mobx" link="https://www.inflearn.com/course/redux-mobx-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-%EB%8F%84%EA%B5%AC" linkTarget="_blank" id="EwSxqJjweThFljmN2n31-40">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="527" y="464" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="EwSxqJjweThFljmN2n31-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EwSxqJjweThFljmN2n31-42" target="EwSxqJjweThFljmN2n31-43" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-42" value="&lt;b&gt;Next.js(SSR)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="377" y="625" width="120" height="50" as="geometry" />
+        </mxCell>
+        <UserObject label="React 노드버드" link="https://www.inflearn.com/course/%EB%85%B8%EB%93%9C%EB%B2%84%EB%93%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A6%AC%EB%89%B4%EC%96%BC" linkTarget="_blank" id="EwSxqJjweThFljmN2n31-43">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="527" y="620" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="EwSxqJjweThFljmN2n31-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EwSxqJjweThFljmN2n31-46" target="EwSxqJjweThFljmN2n31-48" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EwSxqJjweThFljmN2n31-46" target="EwSxqJjweThFljmN2n31-49" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-46" value="&lt;b&gt;TypeScript&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="227" y="146" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-47" value="프론트엔드" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="-55" width="120" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="타입스크립트 올인원&lt;br&gt;Part1, 2" link="https://www.inflearn.com/course/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%98%AC%EC%9D%B8%EC%9B%90-1" linkTarget="_blank" id="EwSxqJjweThFljmN2n31-48">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="70" y="141" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="슬랙 클론코딩" link="https://www.inflearn.com/course/%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9-%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%B1%84%ED%8C%85" linkTarget="_blank" id="EwSxqJjweThFljmN2n31-49">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="227" y="310" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="MDN 웹 강좌" link="https://developer.mozilla.org/ko/docs/Web" linkTarget="_blank" id="EwSxqJjweThFljmN2n31-50">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="59" y="-39" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="모던 자바스크립트&lt;br&gt;튜토리얼" link="https://ko.javascript.info/" linkTarget="_blank" id="EwSxqJjweThFljmN2n31-51">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="189" y="-39" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Git 강좌(무료)" link="https://www.youtube.com/watch?v=cEg9hiZax8U&amp;list=PLcqDmjxt30RvjqpIBi4mtkK5LkzYtXluF" linkTarget="_blank" id="EwSxqJjweThFljmN2n31-52">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="70" y="627" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="EwSxqJjweThFljmN2n31-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" source="EwSxqJjweThFljmN2n31-70" target="EwSxqJjweThFljmN2n31-52" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-54" value="&lt;b&gt;Git/GitHub&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="70" y="469" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="881" as="sourcePoint" />
+            <mxPoint x="434" y="881" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="EwSxqJjweThFljmN2n31-66" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="906" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-57" value="&lt;b&gt;React Native&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="855" width="120" height="50" as="geometry" />
+        </mxCell>
+        <UserObject label="배달앱 클론코딩" link="https://www.inflearn.com/course/%EB%B0%B0%EB%8B%AC%EC%95%B1-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C" linkTarget="_blank" id="EwSxqJjweThFljmN2n31-58">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="434" y="850" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="제로초 슬랙&lt;br&gt;커뮤니티&lt;br&gt;(타임어택, 질의응답, 고민상담)" link="https://join.slack.com/t/zerochoschool/shared_invite/zt-1jc8v4gdz-~BgE2zxq_zC3wSG80YuOeg" linkTarget="_blank" id="EwSxqJjweThFljmN2n31-59">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="612" y="900" width="197" height="138" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="EwSxqJjweThFljmN2n31-60" value="필수" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="59" y="-330" width="69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-61" value="관심/취직" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-330" width="69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-62" value="링크" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-330" width="69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EwSxqJjweThFljmN2n31-64" target="EwSxqJjweThFljmN2n31-43" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-64" value="&lt;b&gt;Emotion/Styled Components&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="677" y="625" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="EwSxqJjweThFljmN2n31-73" target="EwSxqJjweThFljmN2n31-27" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-66" value="앱 개발 하고 싶다면 React Native나 Flutter(Dart 언어) 고민" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="919" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EwSxqJjweThFljmN2n31-68" target="EwSxqJjweThFljmN2n31-69" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-68" value="&lt;b&gt;Electron&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="979" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-69" value="데스크탑 개발 하고 싶다면 Electron" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1038" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-70" value="협업 및 소스 관리를&lt;br&gt;위한 Git" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52" y="546" width="156" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" source="EwSxqJjweThFljmN2n31-54" target="EwSxqJjweThFljmN2n31-70" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="519" as="sourcePoint" />
+            <mxPoint x="130" y="627" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-72" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" source="EwSxqJjweThFljmN2n31-27" target="EwSxqJjweThFljmN2n31-51" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="320" as="sourcePoint" />
+            <mxPoint x="460" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-73" value="HTML은 구조, CSS는 디자인, JS는 액션&lt;br&gt;1교시, 2교시, 3교시처럼 동시에 학습할 것&lt;br&gt;CSS에서는 Flex, Grid 학습할 것" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="217" y="60" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EwSxqJjweThFljmN2n31-75" target="EwSxqJjweThFljmN2n31-76" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-75" value="&lt;b&gt;jQuery&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="700" y="260" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-76" value="DOM 조작 및&lt;br&gt;옛날 사이트를 위해&lt;br&gt;jQuery 배우기&lt;br&gt;(JS 잘하면 2주 학습 가능)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="683.5" y="330" width="153" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-77" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" source="EwSxqJjweThFljmN2n31-27" target="EwSxqJjweThFljmN2n31-75" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="430" as="sourcePoint" />
+            <mxPoint x="460" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-78" value="프론트 개발자의 필수 언어 JS,&lt;br&gt;(실행 컨텍스트, 프로토타입, 프로미스, 호출스택, 이벤트루프 이해 필수)&lt;br&gt;요즘은 타입을 붙인 TS를 대부분 쓰니 TS도 꼭 배울 것" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="217" y="220" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-79" value="Redux 아직 안 죽었습니다. Context API로 대체 안 됩니다.&lt;br&gt;너무 많이 쓰이고 있어서 배워야 함(Redux toolkit)&lt;br&gt;Zustand, Recoil, Jotai도 고려해보세요." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="540" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EwSxqJjweThFljmN2n31-81" target="EwSxqJjweThFljmN2n31-43" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-81" value="&lt;b&gt;React-Query/SWR&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="527" y="710" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EwSxqJjweThFljmN2n31-83" target="EwSxqJjweThFljmN2n31-86" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-83" value="&lt;b&gt;GraphQL&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="469" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-84" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" source="EwSxqJjweThFljmN2n31-31" target="EwSxqJjweThFljmN2n31-83" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="520" as="sourcePoint" />
+            <mxPoint x="460" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-85" value="React나 Vue 둘 중에 하나 선택(저는 React 위주로만 강의합니다)&lt;br&gt;라우팅을 위한 React-Router, Context API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227" y="390" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-86" value="GraphQL에 관심있으면&lt;br&gt;Redux 대신 이거!&lt;br&gt;저는 강의 안 함" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="540" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EwSxqJjweThFljmN2n31-87" value="SSR을 위한 Next.js&lt;br&gt;React의 CSS를 위한 Styled Components / Emotion / Css Modules(택일)&lt;br&gt;데이터 페칭을 위한 React Query / SWR (택일)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="770" width="440" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
